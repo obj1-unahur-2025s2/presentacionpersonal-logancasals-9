@@ -4,10 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+Hola, Mi nombre es Logan Tobías Casals, tengo 20 años y vivo en Merlo.
+Este es mi primer contacto con github, asi que estoy aprendiendo a como manejarme dentro de la plataforma!
 
-
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+### Sobre mí
+Estoy en el cuarto cuatrimestre de la carrera, planeo terminar la tecnicatura e insertarme al mercado laboral, por lo que mi objetivo es ampliar mis conocimientos para ello. 
+Además de la informatica, me gustan los videojuegos, ir al gimnasio y jugar al futbol. Actualmente me encuentro jugando en las inferiores del Club Ferrocarril Oeste, por lo que entre la carrera y el entrenamiento, tengo muy poco tiempo para otras cosas.
